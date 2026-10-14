@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # name: QQ音乐
-# cron: 5 0,8,10,12,16,20,22 * * *
+# cron: 5 12,16 * * *
 """
 QQ音乐签到 v1.2.0（YYB-Go-Enhanced 直连版）
 
