@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # name: 铛铛一下
-# cron: 32 16 * * *
+# cron: 32 15 * * *
 # -*- coding: utf-8 -*-
 
 """
