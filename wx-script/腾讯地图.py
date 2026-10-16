@@ -768,7 +768,7 @@ def main() -> None:
     print(f"║ 🕒 结束时间: {now_text():<32}║")
     print("╚" + "═" * 50 + "╝")
 
-    notify(f"{LOG_ICON} {LOG_NAME}四账号任务完成", build_notify(results))
+    notify(f"{LOG_ICON} {LOG_NAME}账号任务完成", build_notify(results))
 
 
 # --- YYB compatibility layer (managed) ---
